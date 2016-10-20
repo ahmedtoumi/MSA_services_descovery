@@ -1,1 +1,3 @@
-# MSA_services_descovery
+# MSA : Micro-Services Architecture:
+## service descovery using Eureka and Spring Boot
+
